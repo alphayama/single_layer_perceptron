@@ -10,6 +10,14 @@ It was later developed into multi layer perceptrons or artificial neural network
 
 It is a simplified model of a biological neuron.
 
+## Dataset
+
+I used Connectionist Bench (Sonar, Mines vs. Rocks) Data Set (also called Sonar dataset) of UCI Machine Learning repository.
+
+I used **sonar.all-data** (CSV) file as input data.
+
+Link: <https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+%28Sonar%2C+Mines+vs.+Rocks%29>
+
 ## Requirements
 
 (This program was implemented in a Jupyter notebook)
