@@ -2,6 +2,8 @@
 
 This is an implementation of single layer perceptron algorithm in Python.
 
+***Currently the accuracy of the algorithm is bad. I had abandoned working on it for about two years. Going to resume!***
+
 ## About Perceptron
 
 A perceptron is a supervised learning algorithm used for classification which inputs a vector of numbers, applies weights to the inputs and uses an activation function to generate the result.
